@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.11.4)  19 APR 2018 23:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.11.4)  19 APR 2018 23:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -582,6 +582,12 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 81.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no  in font cmr10!
  [2] ) 
 Here is how much of TeX's memory you used:
  8940 strings out of 495028
@@ -597,7 +603,7 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Hrishikesh_Resume.pdf (2 pages, 181573 bytes).
+Output written on Hrishikesh_Resume.pdf (2 pages, 182966 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
